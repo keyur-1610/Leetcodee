@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/keyur-1610/Leetcodee/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/keyur-1610/Leetcodee/tree/master/0179-largest-number) |
 | [0877-stone-game](https://github.com/keyur-1610/Leetcodee/tree/master/0877-stone-game) |
 ## Math
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/keyur-1610/Leetcodee/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/keyur-1610/Leetcodee/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -45,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/keyur-1610/Leetcodee/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/keyur-1610/Leetcodee/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/keyur-1610/Leetcodee/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
