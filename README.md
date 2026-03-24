@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keyur-1610/Leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/keyur-1610/Leetcodee/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keyur-1610/Leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/keyur-1610/Leetcodee/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keyur-1610/Leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/keyur-1610/Leetcodee/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0572-subtree-of-another-tree) |
 ## String
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/keyur-1610/Leetcodee/tree/master/0049-group-anagrams) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
