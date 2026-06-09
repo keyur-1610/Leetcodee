@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keyur-1610/Leetcodee/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/keyur-1610/Leetcodee/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keyur-1610/Leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/keyur-1610/Leetcodee/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/keyur-1610/Leetcodee/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/keyur-1610/Leetcodee/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keyur-1610/Leetcodee/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/keyur-1610/Leetcodee/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/keyur-1610/Leetcodee/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
