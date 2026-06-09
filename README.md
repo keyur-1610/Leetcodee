@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/keyur-1610/Leetcodee/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keyur-1610/Leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/keyur-1610/Leetcodee/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/keyur-1610/Leetcodee/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/keyur-1610/Leetcodee/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/keyur-1610/Leetcodee/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
